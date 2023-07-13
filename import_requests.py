@@ -24,6 +24,6 @@ def scrape_linkedin_profile(profile_url):
     return profile_data
 
 # Example usage
-profile_url = 'https://www.linkedin.com/in/competitor-decision-maker'
+profile_url = 'https://www.linkedin.com/in/srijan-kamboj-74b528246/'
 profile_data = scrape_linkedin_profile(profile_url)
 print(profile_data)
